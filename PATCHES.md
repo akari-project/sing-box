@@ -1,3 +1,5 @@
+<!-- SPDX-License-Identifier: GPL-3.0-or-later -->
+
 # 补丁清单
 
 | 编号 | 类别 | 提交 | 修改位置 | 目的 | 上游是否有替代方案 |
